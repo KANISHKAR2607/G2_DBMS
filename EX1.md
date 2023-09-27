@@ -68,4 +68,4 @@ alter table student rename to mystudent;
 ![image](https://github.com/ARUNKUMART9968/G2_DBMS/assets/121215794/0c723764-5e0e-49ce-927b-b1fdd0a03f66)
 
 ### RESULT:
-To create a student database and execute DDL queries using SQL is executed successfully.
+To create a student database and execute DDL  queries using SQL is executed successfully.
